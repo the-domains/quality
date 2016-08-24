@@ -1,0 +1,14 @@
+layout_spectrum: 0.9727154704742134
+typography_spectrum: 0.0005572582595050335
+color:
+  brandStrength: 0.1717837848700583
+  lightness: 0.25571047607809305
+  saturation: 0.4406379288993776
+  rhythmicContrast: 0.5941235159989446
+  brandColors:
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+name: quality
